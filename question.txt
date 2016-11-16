@@ -18,13 +18,7 @@ Your script should output the tenth line, which is:
 Line 10
 
 
-
-
-
-
-
-
-Question 1: 
+Question 2: 
 
 Employees Earning More Than Their Managers
 
